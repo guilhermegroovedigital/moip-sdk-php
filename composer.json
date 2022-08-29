@@ -1,6 +1,6 @@
 {
     "name": "moip/moip-sdk-php",
-    "description": "Cliente em PHP para integração server-side com APIs Moip v2",
+    "description": "Fork do gui",
     "keywords": ["libraries", "moip", "intermediary", "checkout", "marketplace"],
     "homepage": "http://dev.moip.com.br",
     "license": "MIT",
